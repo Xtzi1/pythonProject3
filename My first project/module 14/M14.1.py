@@ -74,5 +74,4 @@
 #     else:
 #         return False
 #
-# print(check_palindrome('Щипет хуй'))
 # print(check_palindrome('А роза упала на лапу Азора'))
